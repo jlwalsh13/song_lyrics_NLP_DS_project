@@ -1,1 +1,1 @@
-# song_lyrics_NLP_DS_project
+Springboard Data Science Career Track Capstone Project 2: Collected and analyzed 3000+ song lyrics and performed EDA, data cleaning and feature engineering using nltk, pandas and Seaborn. Built a Naive Bayes model that classified the genre of song lyrics with 82% accuracy.
